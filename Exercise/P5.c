@@ -37,7 +37,9 @@ float Suma_Series(int x, int n){
     return resultado;
 }
 int main() {
-   float resultado=Suma_Series(2,5);
-   printf("Valor de X=2 y N=5\n %f \n",resultado);
+   int X=2;
+   int N = 5;
+   float resultado=Suma_Series(X,N);
+   printf("Valor de entrada de x: %d \nNumero de terminos: %d \nsuma: %f",X,N,resultado);
    return 0;
 }

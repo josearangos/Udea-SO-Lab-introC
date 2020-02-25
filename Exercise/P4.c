@@ -25,7 +25,9 @@ int Suma_Progresion(int x, int n){
 
 }
 int main() {
-   int resultado=Suma_Progresion(2,3);
-   printf("Valor de X=2 y N=3\n %d \n",resultado);
+   int X=2;
+   int N = 4;
+   int resultado=Suma_Progresion(X,N);
+   printf("x:%d \nn:%d \nsuma:%d",X,N,resultado);
    return 0;
 }
