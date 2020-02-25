@@ -1,3 +1,9 @@
+# INTEGRANTES LAB 0
+
+## JOSE ALBERTO ARANGO SÁNCHEZ
+## ANDRES RAMIREZ HERNANDEZ
+
+
 # Actividades de entrega de los laboratorios
 
 ## Pasos previos
