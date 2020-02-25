@@ -36,8 +36,9 @@ void IntToStrr(int value, char *str)
 int main() {
     int number=7631;
     int count=1;
+    char numeros[10];
     int length=Count_Digits(number);
-    char *str;
+    char *str=numeros;
     IntToStrr(number,str);
     int x = atoi(str);
     while(count<=length){
